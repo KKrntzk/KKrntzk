@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kelly Kornetzki - Aspiring Full Stack Artist by day- Full fledged bookworm by night <br><br>
+Kelly Kornetzki - Aspiring full stack developer by day- full fledged bookworm by night <br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KKrntzk&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
